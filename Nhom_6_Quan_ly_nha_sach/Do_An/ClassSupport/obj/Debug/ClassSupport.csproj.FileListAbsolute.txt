@@ -1,0 +1,7 @@
+D:\HCMUTE\HCMUTE_Y2\HK2\testwinform\winform_quanlynhasach\Do_An\ClassSupport\bin\Debug\ClassSupport.exe.config
+D:\HCMUTE\HCMUTE_Y2\HK2\testwinform\winform_quanlynhasach\Do_An\ClassSupport\bin\Debug\ClassSupport.exe
+D:\HCMUTE\HCMUTE_Y2\HK2\testwinform\winform_quanlynhasach\Do_An\ClassSupport\bin\Debug\ClassSupport.pdb
+D:\HCMUTE\HCMUTE_Y2\HK2\testwinform\winform_quanlynhasach\Do_An\ClassSupport\obj\Debug\ClassSupport.csproj.AssemblyReference.cache
+D:\HCMUTE\HCMUTE_Y2\HK2\testwinform\winform_quanlynhasach\Do_An\ClassSupport\obj\Debug\ClassSupport.csproj.CoreCompileInputs.cache
+D:\HCMUTE\HCMUTE_Y2\HK2\testwinform\winform_quanlynhasach\Do_An\ClassSupport\obj\Debug\ClassSupport.exe
+D:\HCMUTE\HCMUTE_Y2\HK2\testwinform\winform_quanlynhasach\Do_An\ClassSupport\obj\Debug\ClassSupport.pdb
